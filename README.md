@@ -1,5 +1,7 @@
 DL-SCAN is a user-friendy Streamlit tool that automatically segments cells from fluorescence microscopy TIFF stack using a Deep Learning algorithm called Stardist (Ref: https://arxiv.org/abs/1806.03535),  and provides various user-adjustable options to analyze them. 
 
+Published: https://www.mdpi.com/2218-273X/14/11/1348?utm_source=researchgate.net&utm_medium=article
+
 Launching the Application:
 
 Note: DL-SCAN is also available online on Hugging Face Spaces. This web application can be accessed from: https://huggingface.co/spaces/dlscan/dlscan. 
